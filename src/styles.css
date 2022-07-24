@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.filter-form {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.filter-form * {
+  margin-right: 5px;
+}
